@@ -1,3 +1,6 @@
+为了方便推广,视频 电子书等素材以图片形式分享 其中还可以带二维码 
+
+
 <div align="center">
   <img src="https://s2.loli.net/2022/06/16/opBDE8Swad5rU3n.png" width="180" height="180" alt="NoneBotPluginLogo">
   <br>
